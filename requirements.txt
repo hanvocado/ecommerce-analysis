@@ -4,3 +4,4 @@ matplotlib==3.8.2
 notebook
 scipy
 implicit
+seaborn
