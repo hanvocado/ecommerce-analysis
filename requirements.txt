@@ -1,0 +1,6 @@
+pandas==2.2.0
+plotly==6.0.1
+matplotlib==3.8.2
+notebook
+scipy
+implicit
